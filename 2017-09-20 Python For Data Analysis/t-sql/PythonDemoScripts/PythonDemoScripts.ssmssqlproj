@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PythonDemoScripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00. CREATE DATABASE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00. CREATE DATABASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01. Enable ext scripts.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01. Enable ext scripts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02. PythonScript_parameters_output.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02. PythonScript_parameters_output.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03. TestPython.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03. TestPython.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04. Test Data.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04. Test Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05. MicrosoftMLDemo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05. MicrosoftMLDemo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06. AssocRulesDepartments.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06. AssocRulesDepartments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07. MineAssociationRules_O3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07. MineAssociationRules_O3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07. MineAssociationRules_PyFIM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07. MineAssociationRules_PyFIM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08. MineAssociationRules_PyFIMToTable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08. MineAssociationRules_PyFIMToTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09. Tensorflow.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09. Tensorflow.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Data Transform Query.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Data Transform Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Extended EWvents For SqlSatellite.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Extended EWvents For SqlSatellite.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ExternalScripts_DMV.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ExternalScripts_DMV.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GetGeoCodeFromAddress.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GetGeoCodeFromAddress.sql</FullPath>
+        </FileNode>
+        <FileNode Name="vwClusteringData.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>vwClusteringData.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
